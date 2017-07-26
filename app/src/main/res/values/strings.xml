@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloTADS</string>
+    <string name="say_hello">Ola Mundo</string>
+</resources>
